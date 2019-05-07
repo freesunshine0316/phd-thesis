@@ -1,2 +1,11 @@
 # phd-thesis
-My Ph.D. thesis paper "Tackling Graphical NLP problems with Graph Recurrent Networks" and my defense slides
+This repository contains my Ph.D. thesis paper "Tackling Graphical NLP problems with Graph Recurrent Networks" and my defense slides.
+The thesis covers my recent work in applying graph recurrent network (GRN) on the four following graphical NLP problems:
+
+* Multi-hop reading comprehension (Chapter 3, under review)
+* _N_-ary relation extraction (Chapter 4, published at EMNLP 2018) [link-to-repo](https://github.com/freesunshine0316/nary-grn)
+* AMR-to-text generation (Chapter 5, published at ACL 2018) [link-to-repo](https://github.com/freesunshine0316/neural-graph-to-seq-mp)
+* Semantic neural machine translation (Chapter 6, published at TACL2019) [link-to-repo](https://github.com/freesunshine0316/semantic-nmt)
+
+Hope this can be helpful to you. Please create issues for questions and dicussions. 
+I won't check my University email accounts as offen as I did previously. 
