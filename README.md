@@ -1,5 +1,5 @@
 # phd-thesis
-This repository contains my Ph.D. thesis paper "Tackling Graphical NLP problems with Graph Recurrent Networks" and my defense slides.
+This repository contains my Ph.D. thesis paper "[Tackling Graphical NLP problems with Graph Recurrent Networks](https://arxiv.org/abs/1907.06142)" and my defense [slides](thesis_talk.pdf).
 The thesis covers my recent work in applying graph recurrent network (GRN) on the four following graphical NLP problems:
 
 * Multi-hop reading comprehension (Chapter 3, under review)
